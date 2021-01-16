@@ -4,7 +4,7 @@ Simple app wherein the user chooses among the given options, and an image is sho
 ## Parameters:
 
 #### Age:
-Old, Young, Child,
+Old, Young, Child
 
 #### Gender:
 Male, Female
