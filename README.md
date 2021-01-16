@@ -1,5 +1,5 @@
 # Memes
-Simple app wherein the user chooses among the given options, and an image is shown accordingly. .apk file of the app has been added.
+Simple app wherein the user chooses among the given options, and an image is shown accordingly. .apk file of the app (named app-debug.apk) has been added.
 
 ## Parameters:
 
